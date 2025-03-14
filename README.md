@@ -81,7 +81,7 @@ You have two options for setting up the database:
 
 ### Option 2: Using SQL Dump File
 1. Download the SQL dump file from Dropbox:
-   [Database SQL Dump](YOUR_DROPBOX_LINK_HERE)
+   in folder Database SQL Dump
 2. Import the SQL dump into your database using MySQL:
    ```sh
    mysql -u your_username -p your_database_name < path/to/dump.sql
